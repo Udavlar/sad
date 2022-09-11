@@ -1,6 +1,6 @@
 # sad
 
 ## Какое настроение у вас
-. рабочее :kissing_cat:
+. спортивное :kissing_cat:
 * больное :pouting_cat:
-* отличное
+* отличное :construction_worker:
